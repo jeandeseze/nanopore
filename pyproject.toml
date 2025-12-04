@@ -1,0 +1,14 @@
+[project]
+name = "nanopore"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "matplotlib>=3.10.7",
+    "numpy>=2.3.5",
+    "pandas>=2.3.3",
+    "pysam>=0.23.3",
+    "seaborn>=0.13.2",
+]
